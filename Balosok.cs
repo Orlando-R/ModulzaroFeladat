@@ -17,11 +17,11 @@ namespace Modulzaro0414
         public Balosok(string soronkent)
         {
             string[] sor = soronkent.Split(';');
-            this.nev = sor[0];
-            this.elso = sor[1];
-            this.utolso = sor[2];
-            this.suly = int.Parse(sor[3]);
-            this.magassag = int.Parse(sor[4]);
+            nev = sor[0];
+            elso = sor[1];
+            utolso = sor[2];
+            suly = int.Parse(sor[3]);
+            magassag = int.Parse(sor[4]);
         }
     }
 
