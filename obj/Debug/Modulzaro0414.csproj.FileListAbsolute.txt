@@ -1,0 +1,7 @@
+C:\Users\RL\source\repos\Modulzaro0414\Modulzaro0414\obj\Debug\Modulzaro0414.csprojAssemblyReference.cache
+C:\Users\RL\source\repos\Modulzaro0414\Modulzaro0414\obj\Debug\Modulzaro0414.csproj.CoreCompileInputs.cache
+C:\Users\RL\source\repos\Modulzaro0414\Modulzaro0414\bin\Debug\Modulzaro0414.exe.config
+C:\Users\RL\source\repos\Modulzaro0414\Modulzaro0414\bin\Debug\Modulzaro0414.exe
+C:\Users\RL\source\repos\Modulzaro0414\Modulzaro0414\bin\Debug\Modulzaro0414.pdb
+C:\Users\RL\source\repos\Modulzaro0414\Modulzaro0414\obj\Debug\Modulzaro0414.exe
+C:\Users\RL\source\repos\Modulzaro0414\Modulzaro0414\obj\Debug\Modulzaro0414.pdb
